@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "projects": {
     "default": "<YOUR_FIREBASE_PROJECT_ID>"
   }
+=======
+{
+  "projects": {
+    "default": "<YOUR_FIREBASE_PROJECT_ID>"
+  }
+>>>>>>> 85cfaa65ae2e90a15d401875d43e162f46deac66
 }
